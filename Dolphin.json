@@ -1,0 +1,254 @@
+{
+    "nodes": [
+        {
+            "id": 3,
+            "label": "CCL"
+        },
+        {
+            "id": 4,
+            "label": "Cross"
+        },
+        {
+            "id": 6,
+            "label": "DN21"
+        },
+        {
+            "id": 8,
+            "label": "Double"
+        },
+        {
+            "id": 10,
+            "label": "Fish"
+        },
+        {
+            "id": 11,
+            "label": "Five"
+        },
+        {
+            "id": 12,
+            "label": "Fork"
+        },
+        {
+            "id": 20,
+            "label": "Kringel"
+        },
+        {
+            "id": 24,
+            "label": "MN83"
+        },
+        {
+            "id": 25,
+            "label": "Mus"
+        },
+        {
+            "id": 27,
+            "label": "Number1"
+        },
+        {
+            "id": 28,
+            "label": "Oscar"
+        },
+        {
+            "id": 30,
+            "label": "PL"
+        },
+        {
+            "id": 31,
+            "label": "Quasi"
+        },
+        {
+            "id": 32,
+            "label": "Ripplefluke"
+        },
+        {
+            "id": 33,
+            "label": "Scabs"
+        },
+        {
+            "id": 34,
+            "label": "Shmuddel"
+        },
+        {
+            "id": 35,
+            "label": "SMN5"
+        },
+        {
+            "id": 38,
+            "label": "SN63"
+        },
+        {
+            "id": 39,
+            "label": "SN89"
+        },
+        {
+            "id": 41,
+            "label": "SN90"
+        },
+        {
+            "id": 44,
+            "label": "Thumper"
+        },
+        {
+            "id": 46,
+            "label": "TR120"
+        },
+        {
+            "id": 47,
+            "label": "TR77"
+        },
+        {
+            "id": 48,
+            "label": "TR82"
+        },
+        {
+            "id": 49,
+            "label": "TR88"
+        },
+        {
+            "id": 52,
+            "label": "TSN103"
+        },
+        {
+            "id": 54,
+            "label": "Upbang"
+        },
+        {
+            "id": 57,
+            "label": "Web"
+        },
+        {
+            "id": 59,
+            "label": "Zap"
+        },
+        {
+            "id": 60,
+            "label": "Zig"
+        },
+        {
+            "id": 61,
+            "label": "Zipfel"
+        }
+    ],
+    "links": [
+        {
+            "source": 8,
+            "target": 3
+        },
+        {
+            "source": 20,
+            "target": 8
+        },
+        {
+            "source": 27,
+            "target": 25
+        },
+        {
+            "source": 28,
+            "target": 8
+        },
+        {
+            "source": 28,
+            "target": 20
+        },
+        {
+            "source": 30,
+            "target": 28
+        },
+        {
+            "source": 33,
+            "target": 12
+        },
+        {
+            "source": 34,
+            "target": 33
+        },
+        {
+            "source": 38,
+            "target": 20
+        },
+        {
+            "source": 38,
+            "target": 33
+        },
+        {
+            "source": 44,
+            "target": 20
+        },
+        {
+            "source": 44,
+            "target": 34
+        },
+        {
+            "source": 44,
+            "target": 38
+        },
+        {
+            "source": 47,
+            "target": 10
+        },
+        {
+            "source": 47,
+            "target": 20
+        },
+        {
+            "source": 47,
+            "target": 28
+        },
+        {
+            "source": 47,
+            "target": 30
+        },
+        {
+            "source": 49,
+            "target": 34
+        },
+        {
+            "source": 49,
+            "target": 46
+        },
+        {
+            "source": 52,
+            "target": 38
+        },
+        {
+            "source": 54,
+            "target": 6
+        },
+        {
+            "source": 54,
+            "target": 41
+        },
+        {
+            "source": 57,
+            "target": 6
+        },
+        {
+            "source": 57,
+            "target": 39
+        },
+        {
+            "source": 57,
+            "target": 41
+        },
+        {
+            "source": 57,
+            "target": 48
+        },
+        {
+            "source": 57,
+            "target": 54
+        },
+        {
+            "source": 59,
+            "target": 3
+        },
+        {
+            "source": 59,
+            "target": 8
+        },
+        {
+            "source": 60,
+            "target": 32
+        }
+    ]
+}
