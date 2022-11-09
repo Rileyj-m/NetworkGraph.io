@@ -99,7 +99,9 @@
         <b>Graph Features:</b> The network graph has the ability to zoom, you can sort the social interactions column in the table, tooltip is available to show names of nodes.
     </header>
     <header style="text-align: center;"><b>Source for Dolphin Data:</b> <a
-            href="http://cdg.columbia.edu/cdg/datasets">Dolphin Social Network</a></header>
+            href="http://cdg.columbia.edu/cdg/datasets">Dolphin Social Network</a>
+            <b>Source for Graph Creation:</b> <a
+            href="https://d3-graph-gallery.com/graph/network_basic.html">Network Graph</a></header>
 </head>
 
 <body>
@@ -169,6 +171,8 @@
                         .style("opacity", 0);
                 });
 
+            // DERRICK help me add the text to the nodes.
+            // He is source.
             var text = svg
                 .selectAll("text")
                 .data(data.nodes)
